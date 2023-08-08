@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font: 'Poppins', sans-serif;
+    
+}
+
+.div{
+  margin-top: 42px;
+  margin-left: 47px;
+}
+
+
+
+.link-menu{
+    font-Weight:400;
+    font-Size:14px;
+    Line-height:21px;
+    letter-spacing:0.88 px;
+    text-Align:Center;
+    color:#17233D;
+    margin-right: 32px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+
+
+
+.button-sign-up{
+
+    background-color: #6FBF44;
+    border: solid 10px;
+    Width:124px;
+    Height:51px;
+    Border:1px;
+    font-Size:16px;
+    color:#FFFFFF;
+    margin-top: 10px;
+
+}
+
+
+img{
+    margin: 202px -66px -19px 143px;
+    display: inline-block;
+}
+
+section{
+    display: inline-block;
+    margin-left: 164px;
+    width: 493px;
+}
+
+h1{
+    font-Weight:700;
+    font-Size:62px;
+    Line-height:82px;
+    color:#161A49
+    
+
+}
+
+p{
+   font-Weight:400;
+   font-Size:18px;
+   Line-height:33px;
+   letter-spacing:0.5px;
+   color: #4B505A;
+   margin-top: 45px;
+   margin-bottom: 55px;
+
+}
+
+
+button{
+    font-Weight:500;
+    font-Size:18px;
+    Line-height:27px;
+    border: none;
+    background-color: #FFFFFF;
+    color:#6FBF44
+}
+
+
+
+
